@@ -24,10 +24,10 @@ Tech Used:
 
 Built with React
 
-Note: Use 
+Note: Use to log in.
 
             email -> [eve.holt@reqres.in] 
 
             password -> [cityslicka] 
 
-    to log in.
+    
